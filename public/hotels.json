@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "nombre":"Brisas Hotel Boutique",
+        "descripcion":"Ubicado en el corazón de Mollendo, Brisas Hotel Boutique es el refugio perfecto para quienes buscan una experiencia de lujo junto al mar. Con su estilo sofisticado y atención al detalle, este hotel ofrece una combinación ideal de confort moderno y encanto costero. Ven y disfruta de vistas panorámicas al océano, un ambiente relajante, y un servicio personalizado que hará de tu estancia un recuerdo inolvidable. 🏨💫",
+        "entrada": "Todos los días, de 14:00 a 23:00 horas",
+        "salida": "Todos los días, hasta las 12:00 horas",
+        "contacto": "+51 954 321 654",
+        "ubicacion": "Av. Mariscal Castilla 102, Mollendo, Perú.",
+        "habitaciones":{
+            "Simple": "S/ 150",
+            "Doble":" S/ 250",
+            "Suite": "S/ 350"
+        }
+    },
+    {
+        "id":2,
+        "nombre":"Hotel La Villa Mollendo",
+        "descripcion":"Sumérgete en la tranquilidad de Hotel La Villa Mollendo, un encantador lugar que combina comodidad y hospitalidad en pleno corazón de Mollendo. Perfecto para viajeros que buscan relajarse y disfrutar de la costa, este hotel ofrece un ambiente acogedor, servicios de calidad y una ubicación ideal cerca de las principales atracciones de la ciudad. 🌺✨",
+        "entrada": "Todos los días, de 13:00 a 22:00 horas.",
+        "salida": "Todos los días, hasta las 11:00 horas.",
+        "contacto": "+51 984 123 456",
+        "ubicacion": "Calle Comercio 321, Mollendo, Perú.",
+        "habitaciones":{
+            "Simple": "S/ 120",
+            "Doble":" S/ 220",
+            "Suite": "S/ 300"
+        }
+    },
+    {
+        "id":3,
+        "nombre": "Las Palmeras Bed & Breakfast",
+        "descripcion":"En Las Palmeras Bed & Breakfast, te sentirás como en casa con nuestras cómodas habitaciones, decoradas con un toque cálido y hogareño. Cada mañana, disfruta de un delicioso desayuno casero 🥐☕ en nuestro jardín rodeado de palmeras, mientras planificas tus aventuras del día por Mollendo. Perfecto para quienes buscan un lugar íntimo, relajado y cercano a la naturaleza, con un trato personalizado que hará que tu estancia sea inolvidable. 🍃",
+        "entrada": "Todos los días, de 14:00 a 22:00 horas.",
+        "salida": "Todos los días, hasta las 11:00 horas.",
+        "contacto": "+51 922 678 910",
+        "ubicacion": "Pasaje Palmeras 56, Mollendo, Perú.",
+        "habitaciones":{
+            "Simple": "S/ 100",
+            "Doble":" S/ 180",
+            "Suite": "S/ 280"
+        }
+    },
+    {
+        "id":4,
+        "nombre": "Hostal California",
+        "descripcion":"Descubre la comodidad y el encanto de Hostal California, un lugar diseñado para los viajeros que buscan una estancia práctica y sin complicaciones en el corazón de Mollendo. Con su ambiente acogedor y precios accesibles, este hostal es perfecto para aventureros y turistas que desean explorar la ciudad sin sacrificar comodidad. Ubicado cerca de las principales atracciones y playas, Hostal California ofrece todo lo necesario para que disfrutes al máximo de tu visita. 🏖️😊",
+        "entrada": "Todos los días, de 12:00 a 21:00 horas.",
+        "salida": "Todos los días, hasta las 10:00 horas.",
+        "contacto": "+51 931 112 233",
+        "ubicacion": "Calle Arequipa 213, Mollendo, Perú.",
+        "habitaciones":{
+            "Simple": "S/ 90",
+            "Doble":" S/ 160",
+            "Suite": "S/ 60"
+        }
+        
+    },
+    {
+        "id":5,
+        "nombre": "Hostal California",
+        "descripcion":"Descubre la comodidad y el encanto de Hostal California, un lugar diseñado para los viajeros que buscan una estancia práctica y sin complicaciones en el corazón de Mollendo. Con su ambiente acogedor y precios accesibles, este hostal es perfecto para aventureros y turistas que desean explorar la ciudad sin sacrificar comodidad. Ubicado cerca de las principales atracciones y playas, Hostal California ofrece todo lo necesario para que disfrutes al máximo de tu visita. 🏖️😊",
+        "entrada": "Todos los días, de 12:00 a 21:00 horas.",
+        "salida": "Todos los días, hasta las 10:00 horas.",
+        "contacto": "+51 931 112 233",
+        "ubicacion": "Calle Arequipa 213, Mollendo, Perú.",
+        "habitaciones":{
+            "Simple": "S/ 90",
+            "Doble":" S/ 160",
+            "Suite": "S/ 60"
+        }
+    }
+]

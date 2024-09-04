@@ -1,0 +1,13 @@
+@keyframes zoomInOut {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.6); /* Escala hasta 120% */
+    }
+  }
+  
+  .animate-zoom {
+    animation: zoomInOut 40s ease-in-out infinite; /* Cambia la duración según sea necesario */
+  }
+

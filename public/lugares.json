@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "nombre": "Castillo Forga",
+      "slug": "castillo-forga",
+      "descripcion": "El Castillo Forga de arquitectura ecléctica por las diversa composición de estilos que lo definen, como el estilo neogótico, cornisas de estilo neoclásico, ornamentos de estilo barroco y el remate de estilo medieval a la usanza del siglo XIII.",
+      "historia":"Fue construido, por encargo del empresario textil arequipeño de ascendencia española José Miguel Forga, entre los años 1908 y 1910 con una arquitectura neogótica, siendo autor del proyecto y ejecutor de la obra el arquitecto arequipeño Gerardo Cornejo Iriarte. La construcción tiene una estructura es concreto armado con rieles en algunas partes. Un puente de fierro instalado sobre los rieles del tren es el camino de ingreso a este castillo. Desde sus balcones de concreto con estilo ecléctico puede apreciarse las playas N° 1 y N° 2 de la costa arequipeña.\n\n Don José Miguel Forga mandó a construir el castillo conocido en esa época como “Casa Blanca”, por las apoteósicas fiestas y reuniones que congregaban a la clase más privilegiada de la ciudad de Arequipa y Mollendo. Según crónicas de la región, al castillo llegaron en barco ministros, embajadores y, en una ocasión, las hijas del presidente Augusto Leguía, a fin de disfrutar de las lujosas instalaciones frente al mar.",
+      "recorrido":"El tour al Castillo Forga incluye transporte desde el centro de Mollendo hasta la colina donde se ubica esta histórica estructura. Los visitantes recibirán una visita guiada por el castillo, explorando las distintas salas y aprendiendo sobre su historia y su arquitectura. Se incluye tiempo para tomar fotos y explorar los alrededores, disfrutando de las vistas panorámicas de la ciudad y la costa." ,
+      "precio":"S/40 - S/60",
+      "guiaturistico":{
+         "nombre": "Luis Méndez",
+         "contacto": "+51 954 321 678" ,
+         "email":"luis.mendez@turismoverde.com",
+         "info":"Luis Méndez te guiará por el Castillo Forga, revelando los secretos y la fascinante historia detrás de este impresionante castillo.",
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0jErumspo40OTbQiK8eOwiV7t7UkKiPsdT3JBmdN4Qah488jGRPbl5RyGzKkuOhz5lU&usqp=CAU"
+      },
+      "horariosTour":["Lunes a Viernes: de 10:00 a 16:00 horas.","Sábado y Domingo: de 09:00 a 17:00 horas."],
+      "recomendaciones":["Ropa cómoda y calzado adecuado para terrenos irregulares","Protector solar","Botella de agua","Cámara para fotos","Un abrigo ligero si es necesario"],
+      "fechasDisponibles":"Visitas durante todo el año, con una mejor experiencia de diciembre a marzo.",
+      "images": "https://static.diarioep.pe/noticias/20220119095454/H2-67.jpg",
+      "imagenruta": "/assets/rutaCastillo.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Obelisco grande",
+      "slug": "obelisco-grande",
+      "descripcion": "Un antiguo alcalde nuestro quizo que Mollendo tenga un obelisco y lo mando a construir alla por los años 1965-66.",
+      "historia":" El Obelisco del Puerto Bravo de Mollendo en la Avenida Mariscal Castilla con 57 años de antigüedad, es el emblema de los mollendinos. En las principales ciudades del mundo se construyeron obeliscos por ser considerados como un símbolo universal, que representa el desarrollo y progreso de una ciudad.\n\n Un antiguo alcalde nuestro quizo que Mollendo tenga un obelisco y lo mando a construir alla por los años 1965-66.Mollendo, capital de la provincia de Islay, perteneciente al departamento de Arequipa, Perú.",
+      "recorrido": "El tour comienza con un paseo por la Av. Mariscal Castilla, donde se encuentra el Gran Obelisco. Los visitantes podrán disfrutar de una caminata relajante a lo largo del trayecto.Se ofrecerá una breve explicación histórica sobre el monumento y su significado para Mollendo. El tour incluye tiempo libre para fotos y para disfrutar del entorno.",
+      "precio":"S/15 - S/25",
+      "guiaturistico": {
+         "nombre": "María López",
+         "contacto": "+51 987 654 321" ,
+         "email":"maria.lopez@turismoverde.com",
+         "info":"María López será tu guía en el tour al Gran Obelisco, brindándote una experiencia enriquecedora y segura mientras descubres este emblemático monumento.",
+         "photo": "https://www.senati.edu.pe/sites/default/files/2017/carrera/09/guia-oficial-de-turismo-senati1800-x-1190.jpg"
+       },
+      "horariosTour":["Lunes a Domingo: de 09:00 a 18:00 horas."],
+      "fechasDisponibles":"Todo el año, pero se recomienda especialmente de diciembre a marzo para disfrutar del clima cálido del verano.",
+      "recomendaciones":["Ropa cómoda y fresca","Calzado adecuado para caminar","Protector solar y gorra","Agua para mantenerse hidratado","Agua para mantenerse hidratado"],
+      "images": "https://mollendo.net/imagenes/fondos/1024x768/obelisco-mollendo.jpg",
+      "imagenruta": "/assets/rutaObelisco.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Cruz de fierro",
+      "slug": "cruz-de-fierro",
+      "descripcion": "Siguiendo las indicaciones del Vaticano de colocar una Cruz en el lugar más alto de cada pueblo para recibir el advenimiento del Siglo XX, se construyó en la maestranza de los ferrocarriles, allá por el año 1900, la hoy denominada Cruz de Fierro.",
+      "historia":" Siguiendo las indicaciones del Vaticano de colocar una Cruz en el lugar más alto de cada pueblo para recibir el advenimiento del Siglo XX, se construyó en la maestranza de los ferrocarriles, allá por el año 1900, la hoy denominada Cruz de Fierro. Esta cruz tiene como altura fuera de la superficie de la tierra más o menos cinco metros y el ancho de su brazos mide más o menos tres metros y medio. El material utilizado es fierro o rieles de ferrocarril y en sus ranuras llevan madera prensada al riel.\n\nUna vez construída se nombró una comisión para su traslado al lugar estratégico para edificar la base donde de acuerdo a sus medidad de infraestructura debía ser colocada en forma firme. el 1ro de enero de 1900, el reverendo padre Juan \"Tata\" Arenas, autoridades y devotos, salieron portando la cruz de fierro a lomo de burros, desde la Planta de Maestranza del Ferrocarril, en donde fue construído. Cruzaron la alameda \"Las Huertas\" (hoy Av. Mariscal Castilla), subieron a la cima del cerro más elevado de Mollendo y colocaron la Cruz de Fierro en significativa ceremonia religiosa, de la cual no hay nada descrito , pero sí hay testigos que dan fe de su construcción.\n\nEl 1ro de noviembre de cada año, fieles de ambos sexos en peregrinación desde la medianoche anterior llegan a la Cruz de Fierro para venerarla y reafirmar su fe católica.",
+      "recorrido":"El recorrido inicia con una subida hasta la Cruz de Fierro, ubicada en un punto elevado con vistas panorámicas de Mollendo y el océano Pacífico. Durante el trayecto, el guía explicará la historia y el simbolismo de la Cruz. En la cima, los visitantes podrán disfrutar de vistas impresionantes y de un momento de reflexión o fotografías. El descenso se realiza de forma guiada para garantizar la seguridad de los participantes.",
+      "precio":"S/25 - S/40",
+      "guiaturistico": {
+         "nombre": "Moises Gómez",
+         "contacto": "+51 976 543 210" ,
+         "email":"ana.gomez@turismoverde.com",
+         "info":"Moises Gómez será tu guía en el tour a la Cruz de Fierro, compartiendo contigo la historia y los detalles interesantes de este icónico lugar.",
+         "photo": "https://khipu.edu.pe/wp-content/uploads/2023/06/got-modelo-khipu.jpg.png"
+       },
+       "horariosTour":["Lunes a Domingo: de 08:00 a 17:00 horas."],
+      "fechasDisponibles":"Abierto todo el año, pero recomendado de diciembre a marzo para mejores vistas y clima.",
+      "recomendaciones":["Ropa ligera y calzado cómodo","Protector solar y gorra","Botella de agua","Cámara para capturar el paisaje","Chaqueta ligera en caso de brisa"],
+      "images": "https://mollendo.peruesmas.com/lomas/51-AL%20FONDO%20LA%20CRUZ%20BASTANTE%20DETERIORADA%20%20062%20B.jpg",
+      "imagenruta": "/assets/rutaCruz.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Las playas de Mollendo",
+      "slug": "playas-de-mollendo",
+      "descripcion": "Mollendo tiene playas de agua fría. Son muy concurridas la tradicional Primera, Segunda y Tercera playa, que ofrecen servicios de alimentación, estacionamiento, duchas, vestidores y servicios higiénicos. Además están Albatros, las Rocas, Aviación y Sombrero Grande.",
+      "historia":" Jorge Basadre fija la fundación de Islay en 1826. El historiador Mateo Paz Soldán sostiene que Islay se fundó en el año de 1830 y se debe al general Antonio Gutiérrez de la Fuente, reputado como \"Gran Prefecto\" de Arequipa, cargo que desempeñó entre 1825 y 1828, cuando merced a sus gestiones muy atinadas, el Congreso de la República expidió una ley, elevando a la categoría de Puerto Mayor al de Islay, el que fue dotado de una serie de obras para su desarrollo.\n\nEl 20 de febrero de 1828 el Arzobispo de Arequipa, Monseñor José de Sebastián de Goyeneche y Barreda, nombra el primer Teniente Cura de la nueva Vice-Parroquial del Puerto de Santa Rosa de Islay a Fray Lorenzo Ruiz, lo que se presume por esta circunstancia histórica de carácter religioso, que Islay se fundó como sostiene el sabio Antonio Raymondi, el 30 de agosto de 1827, fiesta de Santa Rosa de Lima.",
+      "recorrido":"Este tour ofrece un recorrido por las principales playas de Mollendo, comenzando en Playa 1 y continuando hasta Playa 4. Los participantes podrán disfrutar de diferentes actividades, como natación, juegos de playa, o simplemente relajarse bajo el sol. Se proporciona información sobre las instalaciones disponibles en cada playa y se incluyen recomendaciones de seguridad para disfrutar al máximo de la experiencia.",
+      "precio":"S/30 - S/50",
+      "guiaturistico": {
+         "nombre": "Sofía Ruiz",
+         "contacto": "+51 987 123 456" ,
+         "email":"sofia.ruiz@turismoverde.com",
+         "info":"Sofía Ruiz te acompañará a explorar las hermosas Playas de Mollendo, asegurándose de que vivas una experiencia inolvidable en la costa.",
+         "photo": "https://blog.elinsignia.com/wp-content/uploads/2017/06/img-2-300x150.jpg"
+      },
+      "horariosTour":["Lunes a Domingo: de 09:00 a 18:00 horas."],
+      "fechasDisponibles":"Todo el año, con temporada ideal de diciembre a marzo para disfrutar del sol y el mar.",
+      "recomendaciones":["Traje de baño, toalla y cambio de ropa","Traje de baño, toalla y cambio de ropa","Protector solar, sombrero y lentes de sol","Agua y refrigerios","Agua y refrigerios"],
+      "images": "https://cdn.www.gob.pe/uploads/document/file/2985449/bff1949d-5a44-4135-9c14-26fbaf5f0084.jfif.jfif",
+      "imagenruta": "/assets/rutaCastillo.png"
+   },
+   {
+      "id": 5,
+      "nombre": "Caleta Catarindo",
+      "slug": "caleta-catarindo",
+      "descripcion": "Es una quebrada y playa angosta muy cercana al centro urbano y ubicada al norte de Mollendo, que empieza desde las lomas para desembocar en el mar, formando un paisaje marino de aguas mansas que invitan al baño de mar, tiene un ancho de 100 metros aproximadamente, entre el sector altitudinal rocoso, desde la parte alta se puede apreciar la magnitud de este hermoso paraje del mar.",
+      "historia":"Caleta de Catarindo. Es el actual puerto de Arequipa y principal del sur del Perú. Se inauguro el 6 de enero de 1951, está construido en una bahía que cuenta con abrigo natural, pero has sido reforzado con dos rompeolas: uno de 659m y el otro de 31m de longitud. Los cabezos de ambas defensas artificiales constituyen la única entrada que tiene la rada interior o zona de atraque para los buques. Esta rada interior comprende una superficie triangular de unas 100 hectáreas, y sus profundidades de 9 a 12 brazas, en el muelle pueden acoderar simultáneamente hasta 4 buques de gran calado.\n\nCatarindo, es una angosta caleta de aguas mansas a solo 2 kilómetros al norte de Mollendo. Por su cercanía al centro urbano de Mollendo, es muy visitada en la temporada veraniega, sobre todo por quienes gustan de la pesca.",
+      "precio":"S/35 - S/55",
+      "recorrido":"El tour comienza con el transporte desde el punto de encuentro hasta las Playas de Catarindo. Una vez allí, los visitantes podrán disfrutar de tiempo libre para nadar, relajarse en la arena dorada y explorar las caletas naturales. Se proporcionarán recomendaciones de actividades como snorkel o caminatas a lo largo de la costa. Se incluye un tiempo de descanso bajo sombrillas disponibles en la playa.",
+      "guiaturistico": {
+         "nombre": "Katherine Caballero",
+         "contacto": "+51 912 345 678" ,
+         "email":"kath.caballero@turismoverde.com",
+         "info":"Katherine Caballero te acompañará en el recorrido por las hermosas Playas de Catarindo, asegurándose de que disfrutes al máximo de este paraíso costero.",
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy0-at1f5xn6REn8bD0K4CrzqEB5vbtJeWcw1NO8Ow525lsUC4RtCM2AZonTXvesmz2g&usqp=CAU"
+       },
+       "horariosTour":["Lunes a Domingo: de 10:00 a 17:00 horas."],
+      "fechasDisponibles":"Ideal de diciembre a marzo, durante el verano, para aprovechar las mejores condiciones climáticas.",
+      "recomendaciones":["Traje de baño y toalla","Traje de baño y toalla","Traje de baño y toalla","Agua y snacks","Lentes de sol y bloqueador labial"],
+      "images": "https://media-cdn.tripadvisor.com/media/photo-s/12/58/1b/de/vista-panoramica-playa.jpg",
+      "imagenruta": "/assets/rutaCatarindo.png"
+   },
+   {
+      "id": 6,
+      "nombre": "Muelle Turistico",
+      "slug": "muelle-turistico",
+      "descripcion": "Trabajos de ingeniería de cuyo autor es el empresario neoyorquino Henry Meiggs Williams, a través del tiempo tuvo una serie de transformaciones en su infraestructura ya que sirvió como puerto de lanchas y lanchones, constaba de una dársena pequeña con dos muelles.",
+      "historia":"Caleta de Catarindo. Es el actual puerto de Arequipa y principal del sur del Perú. Se inauguro el 6 de enero de 1951, está construido en una bahía que cuenta con abrigo natural, pero has sido reforzado con dos rompeolas: uno de 659m y el otro de 31m de longitud. Los cabezos de ambas defensas artificiales constituyen la única entrada que tiene la rada interior o zona de atraque para los buques. Esta rada interior comprende una superficie triangular de unas 100 hectáreas, y sus profundidades de 9 a 12 brazas, en el muelle pueden acoderar simultáneamente hasta 4 buques de gran calado.\n\nCatarindo, es una angosta caleta de aguas mansas a solo 2 kilómetros al norte de Mollendo. Por su cercanía al centro urbano de Mollendo, es muy visitada en la temporada veraniega, sobre todo por quienes gustan de la pesca.",
+      "precio":"S/20 - S/35",
+      "recorrido":"El recorrido comienza con una caminata por el muelle turístico, donde los visitantes podrán conocer su historia y su importancia para Mollendo. A lo largo del muelle, se podrá observar la actividad de los pescadores locales y la vida marina en las aguas circundantes. Se ofrece tiempo para fotos y para disfrutar de la brisa marina, con una breve parada en los puntos de interés a lo largo del muelle.",
+      "guiaturistico": {
+         "nombre": "Jorge Salas",
+         "contacto": "+51 965 432 187" ,
+         "email":"jorge.salas@turismoverde.com",
+         "info":"Jorge Salas te guiará en el tour por el Muelle Turístico de Mollendo, mostrando los encantos y la historia de este popular punto turístico.",
+         "photo": "https://media.istockphoto.com/id/1331160261/es/foto/gu%C3%ADa-tur%C3%ADstico-calvo-explicando-los-monumentos-de-manu-al-grupo-tur%C3%ADstico.jpg?s=612x612&w=0&k=20&c=Y4wuLe3pYcdurPbmZkw4LJ4-WjvNFudJucSZz8vt6yI="
+      },
+      "horariosTour":["Lunes a Domingo: de 08:00 a 19:00 horas.","Sábado y Domingo: de 09:00 a 17:00 horas."],
+      "fechasDisponibles":"Disponible todo el año, pero la experiencia se maximiza de diciembre a marzo.",
+      "recomendaciones":["Vístete con ropa cómoda y adecuada para el clima del día.","Usa calzado antideslizante para mayor seguridad en áreas húmedas.","Usa calzado antideslizante para mayor seguridad en áreas húmedas.","No olvides tu cámara para capturar momentos especiales y vistas panorámicas.","Lleva agua y snacks ligeros para mantenerte hidratado y con energía durante el tour."],
+      "images": "https://live.staticflickr.com/2184/2199369286_c7da62d316_b.jpg",
+      "imagenruta": "/assets/rutaMuelle.png"
+   }
+]
